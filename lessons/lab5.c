@@ -43,4 +43,6 @@ main()
 	time(&now);
 	printf("barier v main() , vremia srabativania %s \n", ctime_r(&now, buf));
 	sleep(5);
+
+	printf("\nVladislav Lyakhov\nGroup I914B\n");
 }
