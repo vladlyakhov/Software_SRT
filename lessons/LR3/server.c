@@ -58,6 +58,7 @@ void server(void) {
 }
 
 int main(void) {
+    printf("\nVladislav Lyakhov\nGroup I914B\n");
     printf("Server program\n");
     server();
     return EXIT_SUCCESS;
